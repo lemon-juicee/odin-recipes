@@ -1,7 +1,8 @@
 h1,
 h2,
 li,
-p {
+p,
+a {
     color: black;
     font-family: 'Courier New', monospace;
 }
